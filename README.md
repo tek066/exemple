@@ -1,13 +1,13 @@
 # DevOps Mini Project – Automated Web Server Deployment
 
-## 📌 Overview
+##  Overview
 This project demonstrates a DevOps-oriented approach to automating the installation and configuration of a web server on Linux using Bash scripting.
 
 The goal is to deploy a fully functional **Nginx web server** in a **repeatable, reliable and idempotent** way.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Automate web server installation
 - Apply DevOps best practices
 - Ensure service reliability
@@ -15,7 +15,7 @@ The goal is to deploy a fully functional **Nginx web server** in a **repeatable,
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Linux (Ubuntu/Debian)
 - Bash scripting
 - systemd
@@ -24,7 +24,7 @@ The goal is to deploy a fully functional **Nginx web server** in a **repeatable,
 
 ---
 
-## 🚀 What the Script Does
+##  What the Script Does
 The script performs the following actions:
 
 1. Verifies root privileges
@@ -37,7 +37,7 @@ The script performs the following actions:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 ```bash
 sudo bash install_nginx.sh
 
